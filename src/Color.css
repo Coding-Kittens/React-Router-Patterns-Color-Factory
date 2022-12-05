@@ -1,0 +1,26 @@
+.Color{
+  height: 50em;
+  width: 100%;
+  position: absolute;
+  top: -1%;
+}
+.Color h1{
+  cursor: default;
+}
+
+.Color h1,.Color p, .Color button
+{
+  position: relative;
+  top: 20%;
+  text-align: center;
+}
+ .Color button{
+  cursor: pointer;
+}
+
+
+
+.Color button{
+  font-size: 1.2em;
+  left: 45%;
+}
